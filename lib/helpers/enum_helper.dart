@@ -1,0 +1,4 @@
+enum RepoType {
+  mockData,
+  apiData,
+}
